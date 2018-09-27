@@ -1,5 +1,5 @@
 # SwipeViewPager
 Card Swipe View using ViewPager
 
-#ScreenShoot
-![Alt text](https://github.com/haerulmuttaqin/PopularNews/blob/master/Screenshot-NewsApp-Copy.png?raw=true "SwipeViewPager")
+# ScreenShoot
+![Alt text](https://github.com/haerulmuttaqin/SwipeViewPager/blob/master/app/banner.png?raw=true "SwipeViewPager")
