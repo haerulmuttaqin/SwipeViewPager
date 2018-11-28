@@ -1,9 +1,9 @@
 package com.haerul.swipeviewpager;
 
 import android.animation.ArgbEvaluator;
+import android.os.Bundle;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
-import android.os.Bundle;
 
 import java.util.ArrayList;
 import java.util.List;
